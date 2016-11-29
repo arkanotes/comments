@@ -1,4 +1,4 @@
- (function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = false; po.src = 'https://cdn.rawgit.com/arkanotes/comments/master/ab.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();
+ (function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = false; po.src = '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();
 
 var cursor = null;
       if (items && items.length > 0) {
